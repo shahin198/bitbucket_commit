@@ -4,7 +4,6 @@ Open Project folder and........ flow command.........
 ```
 git init
 git add -A
-git commit -m "Initial commit"
 git config --global user.email "shahinur.rahman@nybsys.com.bd"
 git commit -m "Initial commit"
 git status
